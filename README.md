@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there, I'm Sarah 👋👩‍💻
+----------------
+![Sarah Abderemane](http://dev.sarahabd.com/static/about-me.jpg)
+[Personal website](https://sarahabd.com/) - [Twitter](https://twitter.com/s_abderemane)
+- 👾 I’m currently working at [TKT Thinking Technology](https://tkt.paris) 
+- 🖥️ I'm working with python and javascript language. I'm a big fan of github actions ❤️
+- 🌱 I’m currently learning bash, improve my way of mentoring
+- ⚡ Fun fact: I'm changing hairstyle as much as I'm changing my clothes !
+
+
+Open to small collaboration 👯
 
 <!--
 **sabderemane/sabderemane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
