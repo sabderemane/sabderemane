@@ -1,5 +1,3 @@
-## Hi there, I'm Sarah 👋👩‍💻
-----------------
 ![Sarah Abderemane](http://dev.sarahabd.com/static/about-me.jpg)
 [Personal website](https://sarahabd.com/) - [Twitter](https://twitter.com/s_abderemane)
 - 👾 I’m currently working at [TKT Thinking Technology](https://tkt.paris) 
