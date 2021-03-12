@@ -1,8 +1,8 @@
 ![Sarah Abderemane](http://dev.sarahabd.com/static/about-me.jpg)
 [Personal website](https://sarahabd.com/) - [Twitter](https://twitter.com/s_abderemane)
 - 👾 I’m currently working at [TKT Thinking Technology](https://tkt.paris) 
-- 🖥️ I'm working with python and javascript language. I'm a big fan of github actions ❤️
-- 🌱 I’m currently learning bash, improve my way of mentoring
+- 🖥️ I'm working with Python and JavaScript language. I'm a big fan of GitHub Actions ❤️
+- 🌱 I’m currently learning Bash, improve my way of mentoring
 - ⚡ Fun fact: I'm changing hairstyle as much as I'm changing my clothes !
 
 
