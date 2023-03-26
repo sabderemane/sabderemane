@@ -1,6 +1,6 @@
 ## Hi there 👩🏽‍💻👋
 
-I'm a fullstack developer (she/her) from Paris, France. I'm working with Python and JavaScript language. I like to improve workflow and automate things, especially with GitHub Actions. I have a MS in Computer Science and I'm trying to contribute to Python ecosystem projects on my spare time.   
+I'm a software developer (she/her) from Paris, France. I'm working with Python and JavaScript language. I like to improve workflow and automate things, especially with GitHub Actions. I have a MS in Computer Science and I'm trying to contribute to Python ecosystem projects on my spare time.   
 
 A few links where you can learn more about me:
 - [Personal website](https://sarahabd.com)
