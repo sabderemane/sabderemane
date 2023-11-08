@@ -5,6 +5,7 @@ I'm a software developer (she/her) from Paris, France. I'm working with Python a
 A few links where you can learn more about me:
 - [Personal website](https://sarahabd.com)
 - [Twitter](https://twitter.com/sabderemane_)
+- [Mastodon](https://mastodon.social/@sabderemane)
 
 A few open source projects that I have contributed on:
 - [TeachMePythonLikeIm5](https://github.com/inspirezonetech/TeachMePythonLikeIm5)
